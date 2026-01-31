@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         网页高亮助手 
-// @name:en      Web Highlight Assistant
+// @name:en      Web Highlight Helper
 // @namespace    https://greasyfork.org/zh-CN/users/1418167-dreamjo2568
 // @version      V1.0
 // @description  自动高亮网页中的关键词，提升阅读效率。
